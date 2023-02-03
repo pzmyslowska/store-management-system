@@ -1,0 +1,46 @@
+﻿
+1, 894098, "Pielęgnacja włosów",  "Szampon do włosów", 22.99, 23, 644.72, 173.42, 5, 35
+2, 708653, "Pielęgnacja włosów",  "Odżywka do włosów", 17.99, 23, 583.07, 659.13, 6, 60
+3, 541906, "Pielęgnacja włosów",  "Peeling do skóry głowy", 17.79, 23, 469.06, 190.99, 5, 73
+4, 379608, "Pielęgnacja włosów",  "Suchy szampon", 13.99, 23, 291.32, 506.18, 7, 97
+5, 672847, "Pielęgnacja włosów",  "Olejek do włosów", 15.49, 23, 202.27, 78.13, 8, 87
+6, 219519, "Pielęgnacja ciała",  "Żel pod prysznic", 8.99, 23, 777.16, 487.77, 5, 2
+7, 844581, "Pielęgnacja ciała",  "Płyn do kąpieli", 11.99, 23, 477.56, 392.54, 4, 45
+8, 376002, "Pielęgnacja ciała",  "Balsam do ciała", 13.49, 23, 288.45, 449.71, 4, 53
+9, 919371, "Pielęgnacja ciała",  "Dezodorant w sprayu", 7.29, 23, 182.20, 658.94, 6, 7
+10, 383088, "Pielęgnacja ciała",  "Dezodorant w kulce", 11.99, 23, 104.56, 198.67, 8, 90
+11, 927815, "Pielęgnacja twarzy",  "Żel oczyszczający do twarzy", 23.99, 23, 201.96, 332.91, 9, 68
+12, 150839, "Pielęgnacja twarzy",  "Peeling enzymatyczny do twarzy", 22.9, 23, 94.02, 331.34, 5, 29
+13, 943365, "Pielęgnacja twarzy",  "Płyn micelarny", 26.49, 23, 125.81, 120.73, 2, 85
+14, 377150, "Pielęgnacja twarzy",  "Krem nawilżający", 34.99, 23, 213.68, 270.66, 4, 11
+15, 445240, "Pielęgnacja twarzy",  "Krem pod oczy", 33.99, 23, 72.02, 624.98, 7, 14
+16, 594956,  "Higiena jamy ustnej",  "Miętowa pasta do zębów", 7.99, 23, 193.29, 201.21, 8, 51
+17, 129017,  "Higiena jamy ustnej",  "Płyn do płukania ust", 11.49, 23, 365.57, 559.08, 10, 52
+18, 604603,  "Higiena jamy ustnej",  "Szczoteczka do zębów. średnia", 4.99, 23, 50.01, 682.31, 5, 5
+19, 750902,  "Higiena jamy ustnej",  "Szczoteczka do zębów. miękka", 4.99, 23, 50.01, 627.18, 23, 39
+20, 259684,  "Higiena jamy ustnej",  "Nić dentystyczna", 8.49, 23, 36.68, 70.95, 14, 17
+21, 873843, "Mydła",  "Hipoalergiczne mydło w kostce", 4.49, 23, 50.93, 229.49, 12, 80
+22, 659768, "Mydła",  "Mydło w kostce", 3.29, 23, 50.41, 126.81, 17, 18
+23, 233922, "Mydła",  "Multipak mydła w kostce", 10.99, 23, 200.56, 674.26, 3, 37
+24, 339774, "Mydła",  "Mydło w płynie", 829, 23, 259.51, 381.41, 5, 70
+25, 476836, "Mydła",  "Zapas mydła w płynie", 3.49, 23, 370.28, 142.24, 3, 77
+26, 995209, "Higiena intymna",  "Podpaski na dzień", 9.79, 5, 236.01, 6, 10
+27, 285701, "Higiena intymna",  "Podpaski na noc", 9.79, 5, 155.55, 587.13, 5, 62
+28, 696783, "Higiena intymna",  "Wkładki", 8.49, 5, 167.36, 116.98, 4, 99
+29, 371816, "Higiena intymna",  "Tampony", 15.49, 5, 79.22, 330.46, 8, 98
+30, 111956, "Higiena intymna",  "Kubeczek menstruacyjny", 44.99, 5, 258.27, 584.33, 3, 38
+31, 804829,  "Makijaż",  "Podkład", 64.99, 23, 63.52, 191.64, 11, 23
+32, 990434,  "Makijaż",  "Korektor", 27.99, 23, 33.13, 159.59, 10, 81
+33, 619144,  "Makijaż",  "Maskara", 32.99, 23, 74.72, 195.33, 15, 48
+34, 435472,  "Makijaż",  "Eyeliner", 18.99, 23, 24.90, 367.21, 10, 89
+35, 303055,  "Makijaż",  "Szminka", 36.99, 23, 41.80, 116.20, 7, 94
+36, 898615,  "Żywność",  "Herbata", 4.79, 5, 60.52, 413.65, 5, 79
+37, 661961,  "Żywność",  "Batonik", 3.99, 5, 15.89, 478.54, 22, 0
+38, 861254,  "Żywność",  "Ciasteczka", 6.49, 5, 247.87, 543.42, 4, 4
+39, 107737,  "Żywność",  "Chrupki", 4.99, 5, 100.42, 169.62, 4, 64
+40, 634752,  "Żywność",  "Guma do żucia", 3.29, 5, 11.01, 180.35, 30, 36
+41, 532575,  "Napoje",  "Woda niegazowana", 2.49, 5, 694.34, 219.79, 6, 96
+42, 246169,  "Napoje",  "Woda gazowana", 2.49, 5, 306.91, 423.58, 6, 34
+43, 951568,  "Napoje",  "Sok owocowy", 4.79, 5, 640.82, 355.92, 1, 93
+44, 543565,  "Napoje",  "Napój gazowany", 4.99, 5, 699.37, 581.09, 4, 88
+45, 256980,  "Napoje",  "Energetyk", 5.99, 5, 676.12, 475.35, 2, 71
