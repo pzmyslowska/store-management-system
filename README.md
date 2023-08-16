@@ -1,7 +1,5 @@
-# README
+# Obiektowy system zarządzania sklepem internetowym
 Projekt studencki z wykorzystaniem C#. 
-
-Obiektowy system zarządzania sklepem internetowym. 
 
 Zawiera bazę danych produktów i widok dla klienta oraz pracownika sklepu
 z opcjami złożenia zamówienia, wyświetlenia produktów, wyszukiwania, filtrowania, 
